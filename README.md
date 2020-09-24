@@ -10,3 +10,4 @@ A PyTorch tutorial for Julyedu.com
 褚则伟
 zeweichu@gmail.com
 
+Fork用于学习，使用了PyTorch 1.6.0+win64+cpu进行测试。
